@@ -1,0 +1,6 @@
+@MyWebNovel.Api_HostAddress = http://localhost:5282
+
+GET {{MyWebNovel.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
